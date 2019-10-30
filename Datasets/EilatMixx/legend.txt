@@ -1,0 +1,11 @@
+0: Faviidae
+1: Stylophora
+2: Platygyra
+3: Acropora
+4: Pocillopora
+5: Other Hard Coral
+6: Bare-subst.
+7: Millepora
+8: Unknown
+9: Other Inv.
+255: label to Ignore

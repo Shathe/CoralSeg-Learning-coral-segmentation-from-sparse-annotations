@@ -42,7 +42,7 @@ The training scripts gives test metrics in every epoch, but if you want to test 
 First of all, download [these weights](https://drive.google.com/file/d/1x5dktklVLVwkomZxYj7ncFCe-JL5bX0l/view?usp=sharing) and save them in the models folder.
 And the just execute: 
 ```
-python train.py
+python train_pretrained.py
 ```
 In the script, the *checkpoint_path* parameter is set to models/deeplab_encoder that is where the trained weights should be.
 

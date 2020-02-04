@@ -1,5 +1,4 @@
-# CoralSeg
-
+# CoralSeg: Learning coral segmentation from sparse annotations
 ## Requirements
 
 - tensorflow
@@ -10,6 +9,8 @@
 - matplotlib
 
 ## Citing CoralSeg
+
+[Link to the paper](http://csms.haifa.ac.il/profiles/tTreibitz/webfiles/CoralSeg2019.pdf)
 
 If you find our work useful in your research, please consider citing:
 ```
